@@ -1,0 +1,9 @@
+C:\Users\Mario\Desktop\Genex-Sys\bin
+
+pg_ctl -D primera -o "-p 5432" start
+
+psql -U admin -d postgres -p 5432
+
+\d public.*;
+
+\q
