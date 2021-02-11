@@ -1,0 +1,33 @@
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Bases de datos.exe.config
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Bases de datos.exe
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Bases de datos.pdb
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.csprojAssemblyReference.cache
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases_de_datos.Form1.resources
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases_de_datos.Properties.Resources.resources
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.csproj.GenerateResource.cache
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.exe
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.pdb
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases_de_datos.Form2.resources
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Npgsql.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Buffers.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Memory.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Text.Json.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Npgsql.pdb
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\Npgsql.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Buffers.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Memory.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Text.Json.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario\source\repos\Bases de datos\Bases de datos\obj\Debug\Bases de datos.csproj.CopyComplete
